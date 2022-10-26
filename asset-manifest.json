@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Sam-DunlapFullStackRestaurantApplication/static/css/main.53a04f9d.css",
+    "main.js": "/Sam-DunlapFullStackRestaurantApplication/static/js/main.882a3226.js",
+    "static/js/787.4042d680.chunk.js": "/Sam-DunlapFullStackRestaurantApplication/static/js/787.4042d680.chunk.js",
+    "static/media/cart.png": "/Sam-DunlapFullStackRestaurantApplication/static/media/cart.014b2c0d4831a9226046.png",
+    "index.html": "/Sam-DunlapFullStackRestaurantApplication/index.html",
+    "main.53a04f9d.css.map": "/Sam-DunlapFullStackRestaurantApplication/static/css/main.53a04f9d.css.map",
+    "main.882a3226.js.map": "/Sam-DunlapFullStackRestaurantApplication/static/js/main.882a3226.js.map",
+    "787.4042d680.chunk.js.map": "/Sam-DunlapFullStackRestaurantApplication/static/js/787.4042d680.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53a04f9d.css",
+    "static/js/main.882a3226.js"
+  ]
+}
