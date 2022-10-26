@@ -1,0 +1,13 @@
+use('Final');
+
+const menu = [];
+function makeMenu() {
+  for (let i = 1; i < 20; i++) {
+    menu.push({
+      'name' : `item${i}`,
+      'price' : Math.ceil(Math.random() * 5 * i)
+      })
+  }
+};
+makeMenu();
+db.Restaurants.updateMany({}, {$set: {menu, menu}})
